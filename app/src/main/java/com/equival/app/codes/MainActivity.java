@@ -1,4 +1,4 @@
-package com.equival.app;
+package com.equival.app.codes;
 
 import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;

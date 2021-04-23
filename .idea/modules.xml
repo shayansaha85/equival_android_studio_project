@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/androidApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/androidApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/equival_android_studio_project.iml" filepath="$PROJECT_DIR$/.idea/modules/equival_android_studio_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/equival_android_studio_project.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/equival_android_studio_project.app.iml" />
     </modules>
   </component>
 </project>

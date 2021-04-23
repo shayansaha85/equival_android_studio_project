@@ -1,4 +1,4 @@
-package com.example.mahbu.convertanywebsiteintoandroidapp;
+package com.equival.app.codes;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
